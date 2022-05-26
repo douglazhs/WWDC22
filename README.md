@@ -2,17 +2,17 @@
 
 That's my WWDC22 Swift Student Challenge submission! 🎉
 
-##Summary
+## Summary
 
 In my submission, I tried to bring a little bit of the reality where I live. Therefore, the place where I live suffers a lot from the improper disposal of garbage that ends up harming the people who live in the city. With this in mind, I came to the conclusion that if we make people aware of how this disposal should be done, it is already a great start for society as a whole.
 
-##How to open
+## How to open
 
 - Clone repository;
 - Click with right button mouse;
 - Select to "Open with Xcode".
 
-##How to use
+## How to use
 
 - After the onboarding, click to start(**🆘 Please read the onboarding!!**);
 
@@ -30,4 +30,4 @@ In my submission, I tried to bring a little bit of the reality where I live. The
 
 ![Informations](https://user-images.githubusercontent.com/50143403/170491633-5b8d34dc-304b-48f2-8d97-a38728c8d24d.png)
 
-##Thank you for taking time to see my WWDC submission! ❤️🤘🏽
+## Thank you for taking time to see my WWDC submission! ❤️🤘🏽

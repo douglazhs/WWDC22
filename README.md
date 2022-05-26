@@ -14,7 +14,8 @@ In my submission, I tried to bring a little bit of the reality where I live. The
 
 ## How to use
 
-- After the onboarding, click to start(**🆘 Please read the onboarding!!**);
+- After the onboarding, click to start
+> **🆘 Please read the onboarding!!**
 
 ![Start](https://user-images.githubusercontent.com/50143403/170491738-51c6f0d6-55b0-47c5-ab69-4773744fe05c.png)
 
